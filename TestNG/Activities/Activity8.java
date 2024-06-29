@@ -5,12 +5,12 @@ public class Activity8 {
 //<suite name="TestSuite" parallel="classes">
 //    <test name="Tests">
 //        <classes>
-//            <class name="session9.Activity1"/>
-//            <class name="session9.Activity2"/>
-//            <class name="session9.Activity3"/>
-//            <class name="session9.Activity4"/>
-//            <class name="session9.Activity5"/>
-//            <class name="session9.Activity6"/>
+//            <class name="Activities.Activity1"/>
+//            <class name="Activities.Activity2"/>
+//            <class name="Activities.Activity3"/>
+//            <class name="Activities.Activity4"/>
+//            <class name="Activities.Activity5"/>
+//            <class name="Activities.Activity6"/>
 //        </classes>
 //    </test>
 //</suite>
